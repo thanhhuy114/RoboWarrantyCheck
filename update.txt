@@ -1,0 +1,14 @@
+@Link Sheet
+/
+https://docs.google.com/spreadsheets/d/1l9pZvI-Q2jtuWXJjflzjuoOZ8TgqkqDZMNF8LTjZ0lk/edit?usp=sharing
+/
+
+@Lưu ý: Không thay đổi tên cột trong file Sheet
+
+
+# update 29/05/2025
+  - click vào logo quay về robo.vn
+  - không phân biệt viết hoa viết thường
+  - không quan tâm người dùng có nhập '/' hay không
+  - nếu không nhập số lượng vẫn ra kết quả
+    + có kiểm tra số lượng nếu người dùng có nhập số lượng
